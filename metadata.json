@@ -1,0 +1,6 @@
+{
+  "name": "Dr Mobile Wala",
+  "description": "Mobile repair shop management system featuring customer management, repair job tracking with before/after photos, IMEI search, payment management, PDF receipts, shop settings, backup & restore, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
